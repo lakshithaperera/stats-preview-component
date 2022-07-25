@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/stats-preview-component/static/js/main.64e5c9e5.js",
+    "static/media/image-header-desktop.jpg": "/stats-preview-component/static/media/image-header-desktop.72d6e2a00c9131c7b6a6.jpg",
+    "index.html": "/stats-preview-component/index.html",
+    "main.64e5c9e5.js.map": "/stats-preview-component/static/js/main.64e5c9e5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64e5c9e5.js"
+  ]
+}
