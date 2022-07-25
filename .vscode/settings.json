@@ -1,0 +1,16 @@
+{
+  "files.autoSave": "off",
+  "editor.fontSize": 10,
+  "editor.minimap.side": "right",
+  "editor.codeLensFontSize": 10,
+  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+  "editor.inlayHints.fontSize": 0,
+  "scm.inputFontSize": 12,
+  "screencastMode.fontSize": 56,
+  "debug.console.fontSize": 14,
+  "markdown.preview.fontSize": 14,
+  "terminal.integrated.fontSize": 10,
+  "markdown.preview.lineHeight": 1.5,
+  "explorer.openEditors.sortOrder": "editorOrder",
+  "explorer.openEditors.visible": 9
+}
